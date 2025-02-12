@@ -32,11 +32,11 @@ export const homeConfig = {
 // name 是礼物的全称；alias 是礼物的简称（用来显示在抽奖方格里）
 export const gifts = [
   { key: 'q', name: 'Dior口红', alias: 'Dior口红', image: '/images/1.png',  description: '「经典迷人色彩，彰显奢华魅力」' },
-  { key: 'w', name: '童鑫的爱（抽象）', alias: '秘密', image: '/images/2.png',  description: '“最不值钱的”' },
-  { key: 'e', name: '爱马仕香水', alias: '爱马仕香水', image: '/images/3.png',  description: '「好香！」' },
+  { key: 'e', name: '爱马仕香水', alias: '爱马仕香水', image: '/images/2.png',  description: '「好香！」' },
+  { key: 'w', name: '童鑫的爱（抽象）', alias: '秘密', image: '/images/3.png',  description: '“最不值钱的”' },
   { key: 'r', name: '520红包', alias: '520', image: '/images/6.png',  description: '“想不出来就这个”' },
-  { key: 't', name: 'Dior星空套装', alias: 'Dior星空', image: '/images/5.png',  description: '「百变唇妆，精美雕琢」' },
+  { key: 't', name: '圣罗兰口红', alias: '圣罗兰口红', image: '/images/5.png',  description: '「比dior好点」' },
   { key: 'y', name: '300红包', alias: '300', image: '/images/6.png',  description: '“亏大了”' },
   { key: 'u', name: '童鑫的单日无上限陪伴时间十天', alias: '陪伴', image: '/images/7.png',  description: '“第二不值钱的”' },
-  { key: 'i', name: '童鑫的衣服', alias: '衣服', image: '/images/8.png',  description: '「来自于lv的M码衣服」' },
+  { key: 'i', name: '童鑫的衣服', alias: '衣服', image: '/images/8.png',  description: '「可以闻我的体香」' },
 ];
